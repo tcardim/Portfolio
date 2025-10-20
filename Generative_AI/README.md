@@ -23,7 +23,7 @@ The projects here demonstrate not only model implementation but also **evaluatio
 ## 🧩 Projects
 
 ### **1️⃣ PEFT Sentiment Analysis using LoRA**
-📁 [`01_Peft_LoRA_Sentiment_Analysis`](./01_Peft_LoRA_Sentiment_Analysis)
+📁 [`01_PEFT_LoRA_Sentiment_Analysis`](./01_PEFT_LoRA_Sentiment_Analysis)
 
 **Goal:**  
 Fine-tune a pre-trained DistilBERT model using **LoRA** adapters to improve sentiment classification performance on the IMDb movie review dataset.
